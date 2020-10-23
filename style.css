@@ -1,6 +1,5 @@
 /* Tag selector to select the 'body' element */
 body {
-  /* Your code here! */
   background: #00b3e6;
 }
 
@@ -10,7 +9,7 @@ div {
   margin: auto;
   font-family: "Helvetica Neue";
   background: white;
-  /* Your code here! */
+
 }
 
 /* ID selector to select the element with id 'main-header' */
